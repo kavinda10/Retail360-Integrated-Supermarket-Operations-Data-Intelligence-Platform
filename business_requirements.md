@@ -19,7 +19,7 @@ BO-02 — Incremental Processing
 BO-03 — Data Quality
 *Identify and manage invalid, incomplete, duplicated and inconsistent records before they enter analytical datasets.
 BO-04 — Retail Intelligence
-*Provide reliable analytical information about sales, products, stores and channels.
+Provide trusted analytical datasets for analysing sales, product performance, store performance, customer purchasing behaviour and sales channels.
 BO-05 — Inventory Intelligence
 *Analyse inventory movements, stock availability, stockouts and product movement.
 BO-06 — Production Intelligence
